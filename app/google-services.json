@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239741333135",
+    "firebase_url": "https://elementary-and-intermediate-1.firebaseio.com",
+    "project_id": "elementary-and-intermediate-1",
+    "storage_bucket": "elementary-and-intermediate-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239741333135:android:8ca738c2880710e1784afa",
+        "android_client_info": {
+          "package_name": "com.starkindustriesruturajsutar.elementaryandintermediatebynitinpandit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239741333135-3pa59f3mm64g9o8ufj4dig6q7fstdo8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starkindustriesruturajsutar.elementaryandintermediatebynitinpandit",
+            "certificate_hash": "8f4a3f5a79c636dfe8b3ec14d5096b600a1f55ec"
+          }
+        },
+        {
+          "client_id": "239741333135-jfbks19kuj4s32ljcourfpap06i3e90n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0zGKWUoUbhQi1VhZNor5oHpVLFWrfXD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239741333135-jfbks19kuj4s32ljcourfpap06i3e90n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

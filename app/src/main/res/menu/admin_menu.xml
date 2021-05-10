@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/item1"
+        android:icon="@drawable/mymenu"
+        android:title="My Account"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item2"
+        android:icon="@drawable/mymenu"
+        android:title="Student Register"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item3"
+        android:icon="@drawable/mymenu"
+        android:title="Logout"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item4"
+        android:icon="@drawable/mymenu"
+        android:title="Change Password"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item5"
+        android:icon="@drawable/mymenu"
+        android:title="Elementary Uploads"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/item51"
+                android:title="समअंगी-वस्तुचित्र "></item>
+            <item
+                android:id="@+id/item52"
+                android:title="विषमअंगी-वस्तुचित्र "></item>
+            <item
+                android:id="@+id/item53"
+                android:title="स्मरणचित्र"></item>
+            <item
+                android:id="@+id/item54"
+                android:title="संकल्पचित्र"></item>
+            <item
+                android:id="@+id/item55"
+                android:title="भूमिती"></item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/item6"
+        android:icon="@drawable/mymenu"
+        android:title="Intermediate Uploads"
+        app:showAsAction="never">
+
+        <menu>
+            <item
+                android:id="@+id/item61"
+                android:title="स्थिरचित्र"></item>
+            <item
+                android:id="@+id/item62"
+                android:title="स्मरणचित्र"></item>
+            <item
+                android:id="@+id/item63"
+                android:title="संकल्पचित्र"></item>
+            <item
+                android:id="@+id/item64"
+                android:title="भूमिती/अक्षरलेखन"></item>
+        </menu>
+
+    </item>
+
+</menu>
